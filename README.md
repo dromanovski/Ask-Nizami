@@ -1,5 +1,5 @@
 # Ask-Nizami
-This is a final project for Standfords' Code in Place course 
+This is a final project for Standford's Code in Place course 
 It's a an extended version of the Magic Eight Ball 
 that makes predictions of your future using Persian poetry. 
 The answers are random and based on “The Treasury of Mysteries”: 
