@@ -1,5 +1,4 @@
 # Ask-Nizami
-A Python oracle that runs on 12th-century Persian poetry
 This is a final project for Standfords' Code in Place course 
 It's a an extended version of the Magic Eight Ball 
 that makes predictions of your future using Persian poetry. 
